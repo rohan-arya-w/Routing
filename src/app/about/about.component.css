@@ -1,0 +1,23 @@
+button {
+    border: none;
+    background: transparent;
+    color: white;
+}
+
+
+a {
+    color: black;
+}
+
+#top {
+    background-color: #121212;
+    background-size: cover;
+}
+
+#overlay {
+    color: white;
+}
+
+#title {
+    font-size: 6rem;
+}
